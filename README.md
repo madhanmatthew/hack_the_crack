@@ -21,18 +21,14 @@ Responsive Design: The application is built to be fully responsive and work seam
 To get a copy of this project up and running on your local machine, follow these steps.
 
 Prerequisites
-You will need the following software installed on your machine:
-
+You will need the following software installed on your machine
 Node.js and npm
-
 Git
 
 Installation
 Clone the repository:
-
 git clone [https://github.com/madhanmatthew/hack_the_crack.git](https://github.com/madhanmatthew/hack_the_crack.git)
 cd hack_the_crack
-
 Install dependencies for both the frontend and backend:
 This project has separate node_modules folders for the frontend and backend. You need to install dependencies in both directories.
 
@@ -56,4 +52,5 @@ cd backend
 npm start
 
 The application will now be running on http://localhost:3000 for the frontend and http://localhost:5000 for the backend.
-Hackathon 2025 by Madhan ,Mano j,Mourya  and Khalander
+
+Hackathon 2025 by Madhan ,Manoj,Mourya and Khalander
